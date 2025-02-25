@@ -1,1 +1,1 @@
-# banner-images
+# All Banner images hosted here
